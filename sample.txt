@@ -1,0 +1,7 @@
+[ID]    [Name]      [Position]      [Division]      [Salary]
+ 10      Alice       Manager         Sales           $8,000
+ 20      Bob         Developer       Technology      $7,000
+ 30      Charlie     Specialist      Technology      $5,000
+ 40      David       Manager         Marketing       $9,000
+ 50      Eva         Specialist      Sales           $4,000
+ 60      Evan        Developer       Technology      $6,000
